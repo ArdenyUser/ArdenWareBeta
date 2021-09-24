@@ -1,4 +1,4 @@
-FAT16 reader
+FAT16 reader (written by the dev of this cfat16 tool, PDA)
 ============
 
 A FAT16 filesystem reader in C. Work in progress.
