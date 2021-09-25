@@ -1,7 +1,5 @@
 # ArdenWareOS
 A simple OS. Being built. WIP. Kernla should be working. 
 
-# FILE SYSTEM CREDITS
-Niv Weiss	913355460	nivweiss@ucdavis.edu
-Daniel Maksimovich	999224298	damaksimovich@ucdavis.edu
-Andro Nooh	998857640	aknooh@ucdavis.edu
+# Bad News
+This submission is cancelled. You may work on it IF you want. The FAT16 system is not linked. It does nothing unless YOU link it. We are sorry for this.
